@@ -3,4 +3,4 @@ Through TestNG, we can scenario level testing like
 
 we can execute all scenarios (Feature Files) parallelly thru TestNG
 
-NOTE: We can parallel testing using Junit in case we have to run all features parallelly. we can execute scenario level testing
+NOTE: We can not parallel testing using Junit as scenaio level, we can parallelly feature level testing. we can not execute scenario level testing using JUnit
