@@ -1,0 +1,6 @@
+This is related to TestNG for parallel testing 
+Through TestNG, we can scenario level testing like 
+
+we can execute all scenarios (Feature Files) parallelly thru TestNG
+
+NOTE: We can parallel testing using Junit in case we have to run all features parallelly. we can execute scenario level testing
